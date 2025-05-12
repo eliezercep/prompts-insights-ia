@@ -1,0 +1,20 @@
+Abaixo segue a lista de promps usado na IA de Chat (Copilot) para obter os insights!
+
+prompt 01:
+"Com base nessa base de dados.
+Gostaria de saber qual é a idade média das pessoas que compraram os produtos de acordo com a plataforma?"
+
+prompt 02: 
+"Qual país que teve mais venda de produtos e qual foi a quantidade?"
+
+prompt 03: 
+"Qual foi o produto mais caro vendido e qual seu preço, bem como a pessoa que comprou?"
+
+prompt 04:
+"Qual foi o maior desconto oferecido e em qual plataforma foi isso?"
+
+prompt 05:
+"Qual é a data de aniversário da pessoa que menos comprou produto?"
+
+prompt 06:
+"Com base nos clientes que compraram, quais são os meses de aniversário deles?"
